@@ -1,0 +1,3 @@
+site/** -text
+.github/** text eol=lf
+*.md text eol=lf
